@@ -48,7 +48,8 @@ Class Link: https://johnguerra.co/classes/webDevelopment_fall_2022/
 <h2>Video Demonstration:</h2>
 <p>https://youtu.be/Zm6bMMiy2aM</p>
 
-<h2>Instructions to Build:</h2>
+<h2>Instructions to Build:</h> 
+Unrelevent information below
 <ul>
 <li>Is the page a good homepage? does it include meaningful information:	15</li>
 <li>Does it include contact information:	2</li>
