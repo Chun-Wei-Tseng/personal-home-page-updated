@@ -9,3 +9,5 @@ function greet() {
     }
     
 }
+
+// Maybe highlight user input as well
