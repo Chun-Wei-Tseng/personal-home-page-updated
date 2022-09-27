@@ -319,7 +319,7 @@ footer>p{
 
 #classes-h2:hover{
     color: red;
-    font-size:300%;
+    font-size:150%; /* 300% makes it goes to the other line. 150% might looks better */
 }
 
 .btn-outline-primary{
