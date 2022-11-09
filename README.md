@@ -7,6 +7,8 @@ Link to Home Page: https://chun-wei-tseng.github.io/personal-home-page-updated/i
 
 Class Link: https://johnguerra.co/classes/webDevelopment_fall_2022/
 
+Design Document: https://docs.google.com/document/d/12ApyWVus8nOfjobFdV4QBOHdyrOcaEAfW_Vhea5-Y0I/edit#
+
 <h2>Project Objective:</h2>
 <ul>
   <li>Create a personal home page using HTML, CSS, and JavaScript</li>
